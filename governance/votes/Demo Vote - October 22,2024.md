@@ -1,7 +1,7 @@
 ---
 title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
 summary: none
-date: $2024-10-22T00:00:00.000Z
+date: 2024-10-22T00:00:00.000Z
 address: "0xCAbb868DA032d90941Fc1CDefB4Cb0C9b04145ba"
 
 ---
