@@ -1,8 +1,8 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
-summary: none
+title: Demo - [Executive Vote] demo test - October 22,2024
+summary: this is a test demo
 date: $2024-10-22T00:00:00.000Z
-address: "0xCAbb868DA032d90941Fc1CDefB4Cb0C9b04145ba"
+address: "0xf89d32d5eeB7Bc2a98443e8E9e97b33abc8f9D9a"
 
 ---
 # [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
