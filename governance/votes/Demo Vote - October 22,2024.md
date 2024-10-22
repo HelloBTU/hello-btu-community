@@ -1,11 +1,11 @@
 ---
 title: Demo - [Executive Vote] demo test - October 22,2024
 summary: this is a test demo
-date: $2024-10-22T00:00:00.000Z
+date: 2024-10-22T00:00:00.000Z
 address: "0xf89d32d5eeB7Bc2a98443e8E9e97b33abc8f9D9a"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] $executive_title - October 22,2024
 
 The $exec_publishers and $exec_crafters_and_reviewers have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
