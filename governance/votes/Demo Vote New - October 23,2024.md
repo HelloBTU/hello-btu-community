@@ -1,8 +1,8 @@
 ---
-title: Demo - [Executive Vote] demo test - October 22,2024
+title: Demo New - [Executive Vote] demo test new - October 23,2024
 summary: this is a test demo
-date: 2024-10-22T00:00:00.000Z
-address: "0xf89d32d5eeB7Bc2a98443e8E9e97b33abc8f9D9a"
+date: 2024-10-23T00:00:00.000Z
+address: "0x7707a52e03ac6c8560198953C20F28d3a76BA792"
 
 ---
 # [Executive Proposal] $executive_title - October 22,2024
